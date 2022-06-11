@@ -1,0 +1,8 @@
+alter proc proc_WAT_AddUpdate_DropdownData in prism_datamart_mvc on 23032022
+alter proc proc_WAT_GetDynamicControls in prism_datamart_mvc on 24032022 (ADD THE FREEZESTATUS=0 CONDITION IN DDLMAST TABLE)
+alter proc Proc_GetCaseHistory_Walmart ON 05042022
+ALTER PROC Proc_GetBulkCaseforReview_Walmart ON 05042022
+ALTER PROC proc_WAT_ActiveAgentList_WalMart ON 05042022
+ALTER PROC proc_WAT_ActiveAgentList_WalMart ON 05042022
+ALTER PROC proc_WAT_ShowAllInActiveAgentsList_WalMart ON 05042022
+ALTER PROC Proc_GetNotification_WalMart ON 05042022
